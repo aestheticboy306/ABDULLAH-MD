@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO ABDULLAH-MD PLUGINS LIST CREATED BY ABDULLAH-XER***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
