@@ -54,6 +54,7 @@ let about = `
 *┃★│* *▢➠ᴀʙᴅᴜʟʟᴀʜ-xᴇʀ⁰⁸¹*
 *┃★│* *▢➠sɪʟᴇɴᴛ ʟᴏᴠᴇʀ ⁴³²*
 *┃★│* *▢➠ʟᴏsᴇʀ ⁰⁰⁷*
+*┃★│* *▢➠ᴀʙᴅᴜʟʟᴀʜ ⁷³²*
 *┃★╰──────────────*
 *╰━━━━━━━━━━━━━━━┈⊷*
 
@@ -62,7 +63,7 @@ let about = `
 *•────────────•⟢*
 `
 
-await conn.sendMessage(from,{image:{url:`https://i.ibb.co/SNvbJvY/Manul-Ofc-X.jpg`},caption:about,
+await conn.sendMessage(from,{image:{url:`https://cdn.ironman.my.id/q/jiYxm.jpg`},caption:about,
                              contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
