@@ -10,7 +10,7 @@
 
 ----------
 
-<a><img src='https://cdn.ironman.my.id/q/dkBFi.jpg'/></a>
+<a><img src=''/></a>
 
 -------
 
