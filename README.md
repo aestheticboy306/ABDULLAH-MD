@@ -19,7 +19,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=ABDULLAH-MD&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ABDULLAH%20XER%20432%20KING%20OF%20KINGS%20OWNER%20ABDULLAH%20XER%20AND%20SILENT%20LOVER432%20MANGER%20AND%20BUG%20FINDER%20LOSER007&image=https://cdn.ironman.my.id/q/dkBFi.jpg?v=4&backgroundColor=%23ecf0f1&github=aestheticboy306&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=ABDULLAH-MD&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ABDULLAH%20XER%20081%20KING%20OF%20KINGS%20OWNER%20ABDULLAH%20XER%20AND%20SILENT%20LOVER432&image=https://cdn.ironman.my.id/q/dkBFi.jpg?v=4&backgroundColor=%23ecf0f1&github=aestheticboy306&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
